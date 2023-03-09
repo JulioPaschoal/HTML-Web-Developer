@@ -3,7 +3,7 @@
 Modulos do Curso
 
 - Seção 1: Primeiros Passos com HTML
-- Seção 2: 
+- Seção 2: HTML I: Conceitos Básicos
 - Seção 3:
 
 ```
